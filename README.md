@@ -2,13 +2,10 @@
 
 
 step 1 : 
-	
 	>$ pip3 install sklearn 
-	
 	>$ pip3 install PyQt5
 
 step 2 :
-
 	>$ python3 setup.py 
 	
 
