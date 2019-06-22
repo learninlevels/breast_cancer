@@ -23,3 +23,4 @@ You can enter both area mean and radius mean of canser tumor and get condition o
 
 Data bank : https://raw.githubusercontent.com/mGalarnyk/Python_Tutorials/master/Kaggle/BreastCancerWisconsin/data/data.csv
 
+	> created by Arian Qaragozlou
